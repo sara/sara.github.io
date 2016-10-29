@@ -1,5 +1,5 @@
 
-dy,
+body,
 html {
     background-color: black;
     color: white;
@@ -22,18 +22,25 @@ html {
       @media screen and (min-width: 640px) {
       .slide-container {
      padding-left: 60px; } }
-      #kickstarter {
+      #Education {
  background-color: #2bde73; }
 
 #misc {
 background-color: blue; }
 
-#lodge {
-background-image: url("../images/iphone_leather_orange.jpg"); }
+#Clubs_and_Leadership {
+  font-size: 14px;
+}
 
-#dollar-a-day {
-background-color: #4fbb7e;
-background-image: url("../images/dollar-a-day-bg.jpg");
+#Experience{
+  font-size: 14px;
+}
+#Skills{
+  background-color: #89b1af;
+  font-size: 18px;
+}
+#Projects {
+background-color: #e1cde9;
 background-size: 100% auto; }
 
 .button {
