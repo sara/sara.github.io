@@ -2,7 +2,6 @@
 body,
 html {
     background-color: black;
-    color: white;
     font-family: "Apercu Regular", Calibri, sans-serif;
     font-size-adjust: 0.508;
     font-weight: normal;
@@ -11,10 +10,10 @@ html {
     body,
     html {
     font-size: 20px; } }
-    @media screen and (max-width: 640px) {
+    @media screen {
     body,
     html {
-    font-size: 16px; } }
+    font-size: 14px; } }
 
     .sticky-title-container {
       width: 60px;
@@ -22,22 +21,31 @@ html {
       @media screen and (min-width: 640px) {
       .slide-container {
      padding-left: 60px; } }
-      #Education {
- background-color: #2bde73; }
-
-#misc {
-background-color: blue; }
-
-#Clubs_and_Leadership {
-  font-size: 14px;
+     
+#About {
+  background-color: #e44234;
+  color: white;
 }
 
-#Experience{
-  font-size: 14px;
+#Education {
+  color: white;
 }
+
+#HackNY{
+  background-color: #2bde73;
+}
+
+#Leadership{
+  background-color: #ea967a;
+  color: white;
+}
+
+#Research{
+  background-color: white;
+}
+
 #Skills{
-  background-color: #89b1af;
-  font-size: 18px;
+  background-color: #cdf3ff;
 }
 #Projects {
 background-color: #e1cde9;
