@@ -32,7 +32,8 @@ html {
 }
 
 #Contact {
-  color: white;
+  background-color: #cdf3ff;
+  color: black;
 }
 #HackNY{
   background-color: #2bde73;
@@ -43,7 +44,7 @@ html {
   color: white;
 }
 
-#Research{
+#PennApps{
   background-color: white;
 }
 
